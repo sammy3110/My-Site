@@ -5,7 +5,7 @@ body {
 }
 
 .menu-bar{
-  background-color: #f1f1e8;
+  background: linear-gradient(#bfdcae, #f1f1e8);
   text-align: center;
 }
 
@@ -31,6 +31,7 @@ body {
   right: 300px;
   width: 100px;
   opacity: 0.8;
+  border-radius: 40%;
 }
 
 .top{
@@ -83,7 +84,7 @@ body {
     bottom: 150px;
     left: 180px;
 }
-hr{
+.hrLine{
   border-top: 4px;
   border-bottom: 0;
   border-left: 0;
@@ -114,7 +115,7 @@ hr{
 
 .computer-text{
   text-align: center;
-  width: 500px;
+  width: 510px;
   margin: 0 auto;
   color: #3b5249;
   font-size: 22px;
@@ -132,6 +133,68 @@ hr{
 .text-h2{
   font-family: 'Indie Flower', cursive;
   font-size: 40px;
+  /* margin-top: 30px; */
 }
 
-/* *********************** Connecter ******* */
+.globe{
+  width: 300px;
+  float: right;
+  position: relative;
+  bottom: 100px;
+  right: 150px;
+}
+
+.world-text{
+  text-align: center;
+  width: 510px;
+  margin: 0 auto;
+  color: #3b5249;
+  font-size: 22px;
+  position: relative;
+  bottom: 140px;
+  right: 150px;
+  line-height: 30px;
+}
+
+/* ************ Footer ******* */
+
+.footer{
+  background-color: #557571;
+  height: 200px;
+  text-align: center;
+  color: #f4f4f4;
+}
+
+.footer-text{
+  font-size: 18px;
+
+}
+
+.links-bar{
+  padding-bottom: 50px;
+  text-align: center;
+  position: relative;
+  top: 30px;
+}
+
+.con-images{
+  width: 30px;
+  padding-left: 15px;
+  text-decoration: none;
+}
+
+a{
+  text-decoration: none;
+}
+
+.copyright{
+  font-size: 15px;
+  color: #a7d7c5;
+
+}
+
+.contact-me{
+  font-size: 17px;
+  line-height: 2px;
+  color: #f7d1ba;
+}
