@@ -42,7 +42,7 @@ body {
 
 .title{
   position: relative;
-  bottom: 350px;
+  bottom: 390px;
   left: 250px;
   width: 400px;
   margin: 0 auto;
@@ -67,22 +67,23 @@ body {
 
 .forest{
   position: relative;
-  right: 170px;
-  margin-top: 20px;
+  right: 70px;
+  bottom: 60px;
+  z-index: 0;
 }
 
 .left-tree{
     position: relative;
     height: 110px;
-    bottom: 30px;
-    right: 70px;
+    bottom: 70px;
+    right: 30px;
 }
 
 .right-tree{
     position: relative;
     height: 130px;
     bottom: 150px;
-    left: 180px;
+    left: 70px;
 }
 .hrLine{
   border-top: 4px;

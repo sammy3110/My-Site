@@ -1,0 +1,117 @@
+.leaf1{
+  height: 35px;
+  position: relative;
+  left: 100px;
+  bottom: 70px;
+  transform: rotate(35deg);
+}
+
+.leaf2{
+  height: 35px;
+  position: relative;
+  left: 170px;
+  bottom: 360px;
+  transform: rotate(20deg);
+}
+
+.leaf3{
+  height: 40px;
+  position: relative;
+  right: 400px;
+  bottom: 400px;
+  transform: rotate(160deg);
+}
+
+.leaf4{
+  height: 40px;
+  position: relative;
+  right: 250px;
+  bottom: 190px;
+  transform: rotate(0deg);
+}
+
+.leaf5{
+  height: 35px;
+  position: relative;
+  left: 210px;
+  bottom: 0px;
+  transform: rotate(330deg);
+}
+
+.leaf6{
+  height: 35px;
+  position: relative;
+  right: 640px;
+  top: 30px;
+  transform: rotate(335deg);
+}
+
+.leaf7{
+  height: 35px;
+  position: relative;
+  right: 380px;
+  top: 170px;
+  transform: rotate(135deg);
+}
+
+.leaf8{
+  height: 35px;
+  position: relative;
+  left: 60px;
+  bottom: 150px;
+  transform: rotate(135deg);
+}
+
+.leaf9{
+  height: 35px;
+  position: relative;
+  left: 90px;
+  top: 260px;
+  transform: rotate(280deg);
+}
+
+.leaf10{
+  height: 35px;
+  position: relative;
+  right: 320px;
+  transform: rotate(335deg);
+}
+
+.leaf11{
+  height: 35px;
+  position: relative;
+  left: 270px;
+  transform: rotate(235deg);
+}
+
+.leaf12{
+  height: 35px;
+  position: relative;
+  bottom: 10px;
+  transform: rotate(15deg);
+}
+
+.leaf13{
+  height: 35px;
+  position: relative;
+  left: 600px;
+  top: 50px;
+  transform: rotate(115deg);
+}
+
+.cloud{
+  height: 35px;
+  position: relative;
+  top: 0px;
+  z-index: 1000;
+}
+
+.move-cloud{
+  width: 300px;
+  height: 100px;
+  position: relative;
+  right: 250px;
+  top: 160px;
+  z-index: 900;
+  margin: 0 auto;
+}
