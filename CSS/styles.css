@@ -102,7 +102,7 @@ body {
   background-color: #f1f1e8;
   text-align: center;
   margin-top: 40px;
-  /* height: 400px; */
+  height: 700px;
 }
 
 .computer{
@@ -137,11 +137,11 @@ body {
 }
 
 .globe{
-  width: 300px;
-  float: right;
+  text-align: center;
+  height: 210px;
   position: relative;
-  bottom: 100px;
-  right: 150px;
+  bottom: 140px;
+  left: 330px;
 }
 
 .world-text{
@@ -151,8 +151,8 @@ body {
   color: #3b5249;
   font-size: 22px;
   position: relative;
-  bottom: 140px;
-  right: 150px;
+  bottom: 370px;
+  right: 200px;
   line-height: 30px;
 }
 
